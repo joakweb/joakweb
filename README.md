@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jorge Carvalho
+- 👋 Hi, I’m Jorge Carvalho o/
 - 👀 I'm currently looking to work for overseas companies, full/part-time, preferably remotely
-- ✨ I’m interested in front end development, focusing on ReactJS and Vue.js languages
-- 🌱 I’m currently learning about new features and advancements on the VueJS language (Composition, Pinia) and ReactJS stack (Next.js)
-- 💞️ I’m looking to collaborate on exciting new projects making use of new trends in front end stack
+- ✨ I’m interested in frontend development, focusing on the React and Vue.js languages
+- 🌱 I’m currently learning about new features and advancements on the Vue.js stack (Composition, Pinia) and React stack (Next.js, Server components)
+- 💞️ I’m looking to collaborate on exciting new projects making use of new trends in the frontend stack
 - 📫 You can reach me through my linkedin profile https://www.linkedin.com/in/jroak
 
 <!---
